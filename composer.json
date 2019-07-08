@@ -1,5 +1,5 @@
 {
-    "name": "ofgi-github/domo-php",
+    "name": "woganmay/domo-php",
     "description": "Use Domo.com APIs with PHP",
     "require": {
         "guzzlehttp/guzzle": "^6.3",
