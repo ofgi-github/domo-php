@@ -8,7 +8,7 @@ Ensure you have a valid Domo account, and generate an access token on the [devel
 
 Install via composer:
 
-    composer require ofgi-github/domo-php
+    composer require woganmay/domo-php
     
 Then read the documents on http://domo-php.readthedocs.io/en/latest/
 
