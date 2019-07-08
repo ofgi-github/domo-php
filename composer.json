@@ -1,8 +1,8 @@
 {
-    "name": "woganmay/domo-php",
+    "name": "ofgi-github/domo-php",
     "description": "Use Domo.com APIs with PHP",
     "require": {
-        "guzzlehttp/guzzle": "6.3.0",
+        "guzzlehttp/guzzle": "^6.3",
         "ext-curl": "*"
     },
     "license": "MIT",
